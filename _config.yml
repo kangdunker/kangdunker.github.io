@@ -23,7 +23,7 @@ keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
 url: https://kangdunker.github.io
-baseurl: "/dotX"
+baseurl: "/"
 # baseurl: ""
 
 # Author settings
@@ -39,7 +39,7 @@ author:
   # facebook  : http://facebook.com/fernando.dev
   # linkedin  : http://linkedin.com/in/nandomoreirame
 
-# google_analytics: UA-52446115-1
+# google_analytics: 
 repo: http://github.com/kangdunker/kangdunker.github.io
 
 # comments
